@@ -9,8 +9,8 @@ const AppLayout = () => {
         <Header />
         <Outlet />
       </main>
-      <div className="p-10 text-center bg-gray-800 mt-10">
-        Made with 💗 by RoadsideCoder
+      <div className="p-3 text-center bg-gray-800 mt-10">
+        Shwetank Sinha
       </div>
     </div>
   );
